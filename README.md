@@ -5,7 +5,9 @@ This project utilizes a multimodal dataset specifically designed for humor ratin
 
 - Data Collection: We gather stand-up comedy clips featuring various comedians and comedic styles.
 - Laughter Detection: Laughter is extracted from the clips using audio processing techniques. Laughter timestamps are then manually labelled to create short segments containing pure laughter audio.
-- Feature Extraction:
+
+
+### Feature Extraction 🛠️
 1. **Audio Features**: Laughter characteristics like pitch, intensity, and amplitude are analyzed to calculate mean and standard deviation for each segment.
 
    
